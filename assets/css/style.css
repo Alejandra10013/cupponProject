@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header nav {
+    background-color: #28A745;
+}
+
+.navbar-brand img {
+    width: 100px;
+    margin-left: 15px;
+}
+
+h5 {
+    color: #212529;
+    font-size: 20pt;
+}
+
+.secundario {
+    color: #707070;
+}
+
+.precioUno{
+    color: #707070;
+    font-size: 16pt;
+    font-weight: 300;
+    text-align: center;
+}
+
+.precioDos{
+    color: #28A745;
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+.formulario {
+    background-color: #28A745;
+    color: white;
+}
+
+#footerS img {
+    width: 90px;
+    margin-top: 15pt;
+}
+
+footer p {
+    color: #707070;
+    font-size: 14pt;
+}
